@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\jelle\source\repos\Oltevents\OlteVents\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-06-04T20:24:39.093</Modified>
+      <Modified>2025-06-04T20:32:39.621</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jelle\source\repos\Oltevents\OlteVents\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-06-04T20:24:05.788</Modified>
+      <Modified>2025-06-04T20:32:39.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jelle\source\repos\Oltevents\OlteVents\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\OlteVents.runtimeconfig.json">
       <PackagePath>OlteVents.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jelle\source\repos\Oltevents\OlteVents\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\OlteVents.dll">
       <PackagePath>OlteVents.dll</PackagePath>
-      <Modified>2025-06-04T20:24:04.499</Modified>
+      <Modified>2025-06-04T20:32:38.307</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jelle\source\repos\Oltevents\OlteVents\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>OlteVents.exe</PackagePath>
-      <Modified>2025-06-04T20:24:04.548</Modified>
+      <Modified>2025-06-04T20:32:38.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jelle\source\repos\Oltevents\OlteVents\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -304,7 +304,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jelle\source\repos\Oltevents\OlteVents\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\OlteVents.deps.json">
       <PackagePath>OlteVents.deps.json</PackagePath>
-      <Modified>2025-06-04T20:24:38.920</Modified>
+      <Modified>2025-06-04T20:32:39.218</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jelle\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

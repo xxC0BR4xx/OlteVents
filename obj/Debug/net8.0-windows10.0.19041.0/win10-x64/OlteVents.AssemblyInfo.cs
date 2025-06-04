@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OlteVents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3dd83f86777e821f5ecd41dc469becb722e1b0fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d1a8e56d04b9438d14dfd160d13fb0d6f1331c73")]
 [assembly: System.Reflection.AssemblyProductAttribute("OlteVents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OlteVents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
