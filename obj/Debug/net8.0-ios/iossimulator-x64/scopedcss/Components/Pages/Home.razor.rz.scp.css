@@ -1,0 +1,12 @@
+body[b-ilkdotawmq] {
+}
+
+.mud-card[b-ilkdotawmq] {
+    background-color: var(--mud-palette-primary);
+    color: var(--mud-palette-tertiary);
+}
+
+.mud-card-style[b-ilkdotawmq] {
+    background-color: var(--mud-palette-primary);
+    color: var(--mud-palette-tertiary);
+}

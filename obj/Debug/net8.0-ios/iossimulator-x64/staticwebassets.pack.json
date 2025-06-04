@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\obj\\Debug\\net8.0-ios\\iossimulator-x64\\scopedcss\\bundle\\OlteVents.styles.css",
+      "PackagePath": "staticwebassets\\OlteVents.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.OlteVents.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.OlteVents.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.build.OlteVents.props",
+      "PackagePath": "build\\OlteVents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildMultiTargeting.OlteVents.props",
+      "PackagePath": "buildMultiTargeting\\OlteVents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildTransitive.OlteVents.props",
+      "PackagePath": "buildTransitive\\OlteVents.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

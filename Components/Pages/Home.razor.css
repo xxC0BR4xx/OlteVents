@@ -1,0 +1,19 @@
+﻿body::-webkit-scrollbar {
+    display: none;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+body {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.mud-card {
+    background-color: var(--mud-palette-primary);
+    color: var(--mud-palette-tertiary);
+}
+
+.mud-card-style {
+    background-color: var(--mud-palette-primary);
+    color: var(--mud-palette-tertiary);
+}
