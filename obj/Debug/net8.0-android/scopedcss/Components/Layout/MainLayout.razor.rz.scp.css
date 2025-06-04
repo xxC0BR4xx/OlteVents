@@ -28,6 +28,10 @@ body[b-yw7lefn2g5]::-webkit-scrollbar{
   scrollbar-width: none;
 }
 
+.mud-toolbar-styled[b-yw7lefn2g5]{
+    width:100%;
+}
+
 .sidebar[b-yw7lefn2g5] {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }

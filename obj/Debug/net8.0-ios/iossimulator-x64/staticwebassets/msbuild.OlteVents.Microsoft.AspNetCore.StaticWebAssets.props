@@ -112,12 +112,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>io7n02hpnm</Fingerprint>
-      <Integrity>XuFWhE1Yl3DdlnXkfXc4Xj9FOQrbSdCKwcHf/bWrZ/0=</Integrity>
+      <Fingerprint>qxx430e9ax</Fingerprint>
+      <Integrity>zoeRqPP2hsZdLuUXJANS9CTrX+00eLI4lYX2UEcIhRE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>5901</FileLength>
-      <LastWriteTime>Wed, 04 Jun 2025 18:45:40 GMT</LastWriteTime>
+      <FileLength>6547</FileLength>
+      <LastWriteTime>Wed, 04 Jun 2025 20:23:52 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\OlteVents.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

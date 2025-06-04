@@ -68,7 +68,7 @@
 
     <ItemGroup>
       <None Update="Components\Pages\Home.razor.css">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       </None>
     </ItemGroup>
 

@@ -2,12 +2,34 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    background: var(--mud-palette-background)
+    background: var(--mud-palette-background); 
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 
 main {
     flex: 1;
-    background: var(--mud-palette-background)
+    background: var(--mud-palette-background);
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+body {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+    body::-webkit-scrollbar {
+        display: none;
+    }
+
+body::-webkit-scrollbar{
+    display: none;
+    -ms-overflow-style: none; 
+  scrollbar-width: none;
+}
+
+.mud-toolbar-styled{
+    width:100%;
 }
 
 .sidebar {

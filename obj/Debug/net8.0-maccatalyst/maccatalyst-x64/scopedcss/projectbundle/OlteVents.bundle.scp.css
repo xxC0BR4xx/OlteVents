@@ -3,12 +3,34 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    background: var(--mud-palette-background)
+    background: var(--mud-palette-background); 
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 
 main[b-yw7lefn2g5] {
     flex: 1;
-    background: var(--mud-palette-background)
+    background: var(--mud-palette-background);
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+body[b-yw7lefn2g5] {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+    body[b-yw7lefn2g5]::-webkit-scrollbar {
+        display: none;
+    }
+
+body[b-yw7lefn2g5]::-webkit-scrollbar{
+    display: none;
+    -ms-overflow-style: none; 
+  scrollbar-width: none;
+}
+
+.mud-toolbar-styled[b-yw7lefn2g5]{
+    width:100%;
 }
 
 .sidebar[b-yw7lefn2g5] {
@@ -181,7 +203,14 @@ main[b-yw7lefn2g5] {
     }
 }
 /* /Components/Pages/Home.razor.rz.scp.css */
+body[b-ilkdotawmq]::-webkit-scrollbar {
+    display: none;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
 body[b-ilkdotawmq] {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 
 .mud-card[b-ilkdotawmq] {

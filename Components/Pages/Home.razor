@@ -6,6 +6,12 @@
     {
 
             <MudCard Outlined="true" Class="mud-card-style rounded-lg">
+
+                <MudCardHeader Style="width:100%; justify-content:space-between">
+                <MudText Align="Align.Start">Title</MudText>
+                 <MudIconButton  Color="_color" OnClick="@ChangeColor" Icon="@Icons.Material.Filled.Star" Disabled="false" aria-label="share" />
+
+                </MudCardHeader>
                 <MudCardMedia Image="images/door.jpg" Height="200" />
                 <MudCardContent>
                     <MudText Typo="Typo.h5">Old Paint</MudText>
@@ -27,3 +33,20 @@
 <div class="mud-main-test">
     Test
 </div>
+
+
+@code{
+    private MudBlazor.Color _color = Color.Default;
+
+    private void ChangeColor()
+    {
+        if(_color == Color.Default)
+        {
+            _color = Color.Warning;
+        }
+        else
+        {
+            _color = Color.Default;
+        }
+    }
+                    }

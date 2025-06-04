@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\obj\\Debug\\net8.0-ios\\iossimulator-x64\\scopedcss\\bundle\\OlteVents.styles.css",
+      "Id": "C:\\Users\\jelle\\source\\repos\\Oltevents\\OlteVents\\obj\\Debug\\net8.0-ios\\iossimulator-x64\\scopedcss\\bundle\\OlteVents.styles.css",
       "PackagePath": "staticwebassets\\OlteVents.styles.css"
     },
     {
-      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\jelle\\source\\repos\\Oltevents\\OlteVents\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\jelle\\source\\repos\\Oltevents\\OlteVents\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\jelle\\source\\repos\\Oltevents\\OlteVents\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\jelle\\source\\repos\\Oltevents\\OlteVents\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\wwwroot\\index.html",
+      "Id": "C:\\Users\\jelle\\source\\repos\\Oltevents\\OlteVents\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

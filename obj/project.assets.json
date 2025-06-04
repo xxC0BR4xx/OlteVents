@@ -46104,11 +46104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\OlteVents.csproj",
+      "projectUniqueName": "C:\\Users\\jelle\\source\\repos\\Oltevents\\OlteVents\\OlteVents.csproj",
       "projectName": "OlteVents",
-      "projectPath": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\OlteVents.csproj",
+      "projectPath": "C:\\Users\\jelle\\source\\repos\\Oltevents\\OlteVents\\OlteVents.csproj",
       "packagesPath": "C:\\Users\\jelle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jelle\\source\\repos\\OlteVents\\OlteVents\\obj\\",
+      "outputPath": "C:\\Users\\jelle\\source\\repos\\Oltevents\\OlteVents\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
